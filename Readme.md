@@ -1,4 +1,4 @@
-# 📌 Secretary Problem Simulation and Optimization
+# 📌 Tinder Problem Simulation and Optimization
 
 ## 📝 Overview
 This project simulates the **Secretary Problem**, a famous optimal stopping problem in decision theory. The goal is to determine the optimal **rejection fraction** of candidates before selecting the best one. The simulation runs multiple trials to find the most effective selection strategy, providing insights into probability-driven decision-making.
@@ -42,7 +42,7 @@ pip install numpy matplotlib tqdm
 ## 📌 Usage
 Run the script using:
 ```sh
-python secretary_problem.py
+python tinder-final.py
 ```
 
 ## 📊 Example Output
