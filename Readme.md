@@ -64,7 +64,7 @@ Theoretical optimal fraction (1/e): 0.368
 ### 📈 Graphical Output
 The script generates a **plot showing success probability** for different rejection fractions. The vertical red line represents the **theoretical optimal fraction (1/e)**.
 
-![Secretary Problem Simulation Graph](graph_placeholder.png)
+![Secretary Problem Simulation Graph](./output.jpg)
 
 ## 🏆 Key Insights
 - **Empirical results align with theoretical expectations.**
